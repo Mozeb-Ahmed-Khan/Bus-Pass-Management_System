@@ -13,5 +13,5 @@ A mobile application for managing bus passes, including registration, authentica
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bus-pass-management-system.git
+   git clone https://github.com/Mozeb-Ahmed-Khan/bus-pass-management-system.git
 2. Open the project in Android Studio and sync Gradle.
